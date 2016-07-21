@@ -1,19 +1,26 @@
 ---
-datePublished: '2016-07-21T18:53:21.360Z'
-sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-07-21T18:53:20.852Z'
-title: Homemade Loot...it’s all good!
-publisher: {}
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   There is some amount of great satisfaction in knowing that you made something;
   that what you have made is from natural organic and easily sourced materials
   and most importantly it is free from many of those unpleasant toxins and
   chemicals found in many commercial store bought products.
-inNav: true
+datePublished: '2016-07-21T21:34:34.187Z'
+dateModified: '2016-07-21T21:22:29.985Z'
+sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
+author: []
+via: {}
+title: Homemade Loot...it’s all good!
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: homemade-lootits-all-good/index.html
 _type: Article
