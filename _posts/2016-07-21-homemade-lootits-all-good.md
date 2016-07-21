@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-07-21T18:45:59.864Z'
+datePublished: '2016-07-21T18:48:49.267Z'
 sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
-inFeed: true
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/53fc4d29-02bc-477c-afc5-396636aafc74.jpg
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-21T18:45:59.445Z'
+dateModified: '2016-07-21T18:48:48.477Z'
 title: Homemade Loot...it’s all good!
 publisher: {}
 description: >-
@@ -15,6 +14,7 @@ description: >-
   and most importantly it is free from many of those unpleasant toxins and
   chemicals found in many commercial store bought products.
 starred: false
+url: homemade-lootits-all-good/index.html
 _type: MediaObject
 
 ---
