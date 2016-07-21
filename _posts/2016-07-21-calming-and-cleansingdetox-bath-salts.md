@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-07-21T18:35:28.114Z'
+datePublished: '2016-07-21T18:50:10.431Z'
 sourcePath: _posts/2016-07-21-calming-and-cleansingdetox-bath-salts.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b6cd17-5ee3-4861-b770-c89d8d730222.jpg
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-21T18:34:42.153Z'
+dateModified: '2016-07-21T18:50:09.968Z'
 title: Calming & Cleansing...Detox Bath Salts
 publisher: {}
 description: >-
@@ -13,9 +12,7 @@ description: >-
   divine in smell... both Men and Women like this one - yes it is a little more
   flowery, but the benefits are one to be enjoyed by all.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: calming-and-cleansingdetox-bath-salts/index.html
 _type: MediaObject
 
 ---
