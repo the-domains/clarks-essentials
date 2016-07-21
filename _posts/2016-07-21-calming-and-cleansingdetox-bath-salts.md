@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-21T18:50:10.431Z'
+datePublished: '2016-07-21T21:17:57.245Z'
 sourcePath: _posts/2016-07-21-calming-and-cleansingdetox-bath-salts.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-21T18:50:09.968Z'
+dateModified: '2016-07-21T21:17:56.745Z'
 title: Calming & Cleansing...Detox Bath Salts
 publisher: {}
 description: >-
