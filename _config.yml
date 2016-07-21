@@ -1,20 +1,7 @@
-typography_spectrum: 0.8975607217289507
-color:
-  saturation: 0.5296652263496071
-  brandStrength: 0.2734347388613969
-  rhythmicContrast: 0.8283096386585385
-  brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  lightness: 0.010460634250193834
-layout_spectrum: 0.13598934118635952
 author:
   name: Amanda Clark
   email: mands007@mac.com
-name: Clark's Essentials
+title: natural delights | lovely things | tasty stuff | homemade
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 collections:
@@ -23,10 +10,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: natural delights | lovely things | tasty stuff | homemade
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5296652263496071
+  brandStrength: 1
+  lightness: 0.01046063425019383
+  brandColors:
+    - '#ECEDF2'
+    - '#291F1F'
+    - '#945D5A'
+    - '#B5777E'
+    - '#C79D9B'
+  rhythmicContrast: 0.8283096386585385
+typography_spectrum: 0.4802867
+layout_spectrum: 1
+name: Clark's Essentials
