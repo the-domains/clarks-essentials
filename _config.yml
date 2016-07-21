@@ -1,4 +1,4 @@
-typography_spectrum: 0.5591819405090064
+typography_spectrum: 0.8975607217289507
 color:
   saturation: 0.5296652263496071
   brandStrength: 0.2734347388613969
@@ -10,7 +10,7 @@ color:
     - '#723147'
     - '#31152B'
   lightness: 0.010460634250193834
-layout_spectrum: 0.5452385866083205
+layout_spectrum: 0.13598934118635952
 author:
   name: Amanda Clark
   email: mands007@mac.com
