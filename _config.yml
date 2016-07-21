@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.5591819405090064
 color:
   saturation: 0.5296652263496071
@@ -23,5 +11,21 @@ color:
     - '#31152B'
   lightness: 0.010460634250193834
 layout_spectrum: 0.5452385866083205
+author:
+  name: Amanda Clark
 name: Clark's Essentials
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 title: natural delights | lovely things | tasty stuff | homemade
