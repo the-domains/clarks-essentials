@@ -17,16 +17,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5296652263496071
-  brandStrength: 1
-  lightness: 0.01046063425019383
+  saturation: 0.49312667921185493
+  brandStrength: 0.11967632756568491
+  lightness: 0.8763568045105785
   brandColors:
-    - '#ECEDF2'
-    - '#291F1F'
-    - '#945D5A'
-    - '#B5777E'
-    - '#C79D9B'
-  rhythmicContrast: 0.8283096386585385
-typography_spectrum: 0.4802867
-layout_spectrum: 1
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  rhythmicContrast: 0.163792020175606
+typography_spectrum: 0.5154869563411921
+layout_spectrum: 0.5528350537642837
 name: Clark's Essentials
