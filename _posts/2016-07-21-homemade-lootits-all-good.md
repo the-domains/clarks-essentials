@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-07-21T15:35:28.269Z'
+datePublished: '2016-07-21T15:40:06.930Z'
+sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/53fc4d29-02bc-477c-afc5-396636aafc74.jpg
 author: []
 via: {}
-dateModified: '2016-07-21T14:52:13.311Z'
+dateModified: '2016-07-21T15:40:06.137Z'
 title: Homemade Loot...it’s all good!
 publisher: {}
 description: >-
   I have recently been participating in an online aromatherapy course, as well
   as researching like a crazy woman about making homemade DIY products for
   cleaning the house, body and general natural solutions for life.
-sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 starred: false
 inFeed: true
 hasPage: false
