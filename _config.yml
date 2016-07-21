@@ -4,12 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5591819405090064
 color:
   saturation: 0.5296652263496071
@@ -21,6 +21,6 @@ color:
     - '#CC4452'
     - '#723147'
     - '#31152B'
-  lightness: 0.010460634250193834
-layout_spectrum: 0.5452385866083205
+  lightness: 0.01046063425019383
+layout_spectrum: 1
 name: Clark's Essentials
