@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCRG-TdTGGb/?taken-by=mandysue73'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-07-21T21:52:28.070Z'
+dateModified: '2016-07-21T21:52:17.155Z'
 author:
   - name: mandysue73
     url: 'https://www.instagram.com/mandysue73'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: >-
-    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1193766046009155995'
     type: ios
@@ -26,19 +28,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCRG-TdTGGb/?taken-by=mandysue73'
 title: "My lovely Tufty....not too happy with me at the moment\uD83D\uDE01 #blackcat"
-datePublished: '2016-07-21T21:49:53.205Z'
-dateModified: '2016-07-21T21:49:34.489Z'
-description: ''
 via: {}
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
-starred: true
 sourcePath: _posts/2016-07-21-my-lovely-tuftynot-too-happy-with-me-at-the-moment-bl.md
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
+starred: true
 _type: Photograph
 _context: 'http://schema.org'
 
