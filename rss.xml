@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Clark's Essentials]]></title>
         <description><![CDATA[Clark's Essentials]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clarks-essentials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 15:35:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 15:36:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clarks-essentials/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Ever DIY Deodorant!]]></title>
+            <description><![CDATA[<article><h1>Best Ever DIY Deodorant!</h1><p>Ooh, I am excited to share with you...the best homemade do-it-yourself (DIY) deodorant ever!!! I am actually surprised that I make & use it...but I tell you what, I am totally converted & will not be returning to that shop bought stuff again...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3a514990b276dec0219b372990359cb/croprotate.jpg?cropheight=2448&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4e0820f7-ea78-4e6b-805c-b6e0b0220094.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04ad060e-a45c-43b9-87fd-8ada2c24251d.jpg</link>
+            <guid isPermaLink="false">a06ceea9-db28-406b-a1f8-c9affe8a257c</guid>
+            <pubDate>Thu, 21 Jul 2016 15:35:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Homemade Loot...it’s all good!]]></title>
             <description><![CDATA[<article><h1>Homemade Loot...it’s all good!</h1><h2>I have chosen to use more of a natural approach to life in general for many reasons such as:</h2><p>I have recently been participating in an online aromatherapy course, as well as researching like a crazy woman about making homemade DIY products for cleaning the house, body and general natural solutions for life.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53fc4d29-02bc-477c-afc5-396636aafc74.jpg"></article>]]></description>
