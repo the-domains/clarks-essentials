@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5517703080549836
+typography_spectrum: 0.5591819405090064
 color:
-  saturation: 0.3670864887535572
-  brandStrength: 0.3889684034511447
-  rhythmicContrast: 0.501378056127578
+  saturation: 0.5296652263496071
+  brandStrength: 0.2734347388613969
+  rhythmicContrast: 0.8283096386585385
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-  lightness: 0.1329148444347084
-layout_spectrum: 1
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  lightness: 0.010460634250193834
+layout_spectrum: 0.5452385866083205
 name: Clark's Essentials
