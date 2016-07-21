@@ -1,9 +1,19 @@
-layout_spectrum: 0.7110038879327476
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5517703080549836
 color:
-  brandStrength: 0.3889684034511447
-  lightness: 0.13291484443470836
   saturation: 0.3670864887535572
+  brandStrength: 0.3889684034511447
   rhythmicContrast: 0.501378056127578
   brandColors:
     - '#962D3E'
@@ -11,4 +21,6 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+  lightness: 0.1329148444347084
+layout_spectrum: 1
 name: Clark's Essentials
