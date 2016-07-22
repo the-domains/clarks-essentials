@@ -27,11 +27,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: fcbfdaeb-b918-4812-bebd-8e72f24fd7f1
-    url: 2016-07-21-relaxing-diy-bath-salts.html
-    name: Relaxing DIY Bath Salts
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 collections:
