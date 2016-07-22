@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-07-22T10:03:47.999Z'
+datePublished: '2016-07-22T13:06:55.652Z'
+sourcePath: _posts/2016-07-22-pure-rose-oil-cacao.md
 author: []
 via: {}
-dateModified: '2016-07-22T10:02:53.813Z'
+dateModified: '2016-07-22T13:06:49.242Z'
 title: Pure Rose Oil Cacao
 publisher:
   domain: www.shantistar.com.au
@@ -12,7 +13,6 @@ description: >-
   need to be made by your fair hands and eaten with absolute joy! The beautiful
   recipe is courtesy of John & Noel of Shantistar - thank you x
 starred: false
-sourcePath: _posts/2016-07-22-pure-rose-oil-cacao.md
 inFeed: true
 hasPage: true
 inNav: false
