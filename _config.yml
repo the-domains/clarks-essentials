@@ -1,4 +1,4 @@
-typography_spectrum: 0.9569073680322617
+typography_spectrum: 0.6795457259286195
 color:
   brandColors:
     - '#282142'
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7772028455510736
+layout_spectrum: 0.7467811238020658
 analytics:
   google: null
   facebook: null
@@ -42,5 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: natural delights | lovely things | tasty stuff | homemade
+title: ''
 purpose: []
