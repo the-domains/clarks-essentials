@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-22T11:58:50.673Z'
+datePublished: '2016-07-22T11:59:02.659Z'
 sourcePath: >-
   _posts/2016-07-22-diy-dish-soap-with-lemon-and-citrus-bliss-oils-or-doterra-es.md
 isBasedOnUrl: 'http://doterra.com/US/en/blog/diy-dish-soap'
 author: []
 via: {}
-dateModified: '2016-07-22T11:58:50.155Z'
+dateModified: '2016-07-22T11:59:02.294Z'
 title: 'DIY: Dish Soap with Lemon and Citrus Bliss Oils | doTERRA Essential Oils'
 publisher:
   name: dōTERRA
 description: >-
   Try this do-it-yourself dish soap recipe using Lime, Lemon, and Citrus Bliss
   essential oils. It is perfect for removing grease and awakening your senses.
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
