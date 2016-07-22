@@ -1,0 +1,70 @@
+---
+author:
+  - name: 'http://verbbrands.com/'
+    url: null
+    avatar: {}
+related:
+  - score: 0.7436332703
+    description: >-
+      Our apologies. An error occurred while setting your user cookie. Please
+      set your browser to accept cookies to continue.
+    title: 'MMS: Error'
+    url: 'http://www.nejm.org/action/cookieAbsent'
+    thumbnail_height: null
+    thumbnail_url: null
+    thumbnail_width: null
+  - score: 0.7344713211
+    description: null
+    title: null
+    url: 'http://pubs.acs.org/action/cookieAbsent'
+    thumbnail_height: null
+    thumbnail_url: null
+    thumbnail_width: null
+  - score: 0.670804143
+    description: >-
+      Get the latest sports news, live scores, and standings from around the
+      world on Australia's sports leader Fox Sports
+    title: nocookies
+    url: 'http://www.foxsports.com.au/nocookies'
+    thumbnail_height: 200
+    thumbnail_url: >-
+      https://secure.gravatar.com/blavatar/ded700fca688a141c6769bb5f69425d9?s=200&ts=1469168748
+    thumbnail_width: 200
+publisher:
+  url: 'http://deliciouslyella.com'
+  name: Deliciously Ella
+  favicon: 'http://deliciouslyella.com/favicon.ico'
+  domain: deliciouslyella.com
+keywords:
+  - cookies
+  - sultanas
+  - oven
+  - tray
+  - mixture
+  - bake
+  - grated
+  - 200c
+  - preheat
+  - apples
+description: >-
+  Preheat the oven to 200C Grate the apples (no need to peel them) and mash the
+  bananas. Drain the excess liquid from the grated apples using a sieve. Then
+  mix them with all the remaining ingredients in a bowl. Grease a baking tray
+  with coconut oil.
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://deliciouslyella.com/chewy-sultana-cookies/'
+title: Chewy Sultana Cookies | Deliciously Ella
+datePublished: '2016-07-22T15:21:19.077Z'
+dateModified: '2016-07-22T15:06:29.845Z'
+via: {}
+starred: false
+sourcePath: _posts/2016-07-22-chewy-sultana-cookies-or-deliciously-ella.md
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+<article style=""><h1>Chewy Sultana Cookies | Deliciously Ella</h1><p>Preheat the oven to 200C Grate the apples (no need to peel them) and mash the bananas. Drain the excess liquid from the grated apples using a sieve. Then mix them with all the remaining ingredients in a bowl. Grease a baking tray with coconut oil.</p><img src="http://deliciouslyella.com/wp-content/uploads/2015/06/cookiesblog.jpg" /></article>
