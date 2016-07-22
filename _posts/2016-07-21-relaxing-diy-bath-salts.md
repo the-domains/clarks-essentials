@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-07-22T10:23:26.646Z'
+datePublished: '2016-07-22T13:04:22.282Z'
 sourcePath: _posts/2016-07-21-relaxing-diy-bath-salts.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T10:23:25.943Z'
+dateModified: '2016-07-22T13:04:17.076Z'
 title: Relaxing DIY Bath Salts
 publisher: {}
 description: >-
@@ -12,7 +13,7 @@ description: >-
   essential oil(s), rest back and soak in the delights!
 starred: false
 url: relaxing-diy-bath-salts/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Relaxing DIY Bath Salts
