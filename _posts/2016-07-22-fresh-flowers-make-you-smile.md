@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-07-22T08:54:04.016Z'
+datePublished: '2016-07-22T09:14:40.885Z'
 author: []
 via: {}
-dateModified: '2016-07-22T08:53:09.355Z'
+dateModified: '2016-07-22T09:14:40.491Z'
 title: Fresh Flowers make you smile
 publisher: {}
 description: >-
   There is something so delightful about the sights and smells of fresh flowers;
   they have the ability to pick you up, transport you, chill you out, smile,
   remember...
-starred: false
 sourcePath: _posts/2016-07-22-fresh-flowers-make-you-smile.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
