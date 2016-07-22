@@ -4,7 +4,7 @@
         <description><![CDATA[Clark's Essentials]]></description>
         <link>https://thegrid.ai/clarksessentials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 15:30:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clarksessentials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/clarksessentials/fresh-flowers-make-you-smile/index.html</link>
             <guid isPermaLink="false">b09b2e11-7ca2-41c2-9a92-71a57d52004d</guid>
             <pubDate>Fri, 22 Jul 2016 09:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delicious & healthy stuffed Pita Bread]]></title>
+            <description><![CDATA[<article><h1>Delicious & healthy stuffed Pita Bread</h1><p>Ever gone to the kitchen, opened the fridge & just stood in front of the cold opening just staring at the contents blindly thinking "I have nothing to eat!"....? Well that was me the other day, it was ridiculous...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e90e46d4-89a8-492a-951e-8b8aebe1ffbe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/clarksessentials/delicious-and-healthy-stuffed-pita-bread/index.html</link>
+            <guid isPermaLink="false">40ff83d3-26aa-4f2c-bda2-4967dddce3c8</guid>
+            <pubDate>Fri, 22 Jul 2016 15:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About me...]]></title>
@@ -68,13 +75,6 @@
             <link>http://doterra.com/US/en/blog/diy-dish-soap</link>
             <guid isPermaLink="false">8e115296-d401-4616-bd18-0383cc9bf10d</guid>
             <pubDate>Fri, 22 Jul 2016 11:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Delicious & healthy stuffed Pita Bread]]></title>
-            <description><![CDATA[<article><h1>Delicious & healthy stuffed Pita Bread</h1><p>Ever gone to the kitchen, opened the fridge & just stood in front of the cold opening just staring at the contents blindly thinking "I have nothing to eat!"....? Well that was me the other day, it was ridiculous...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e90e46d4-89a8-492a-951e-8b8aebe1ffbe.jpg"></article>]]></description>
-            <link>https://thegrid.ai/clarksessentials/delicious-and-healthy-stuffed-pita-bread/index.html</link>
-            <guid isPermaLink="false">40ff83d3-26aa-4f2c-bda2-4967dddce3c8</guid>
-            <pubDate>Fri, 22 Jul 2016 10:25:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
