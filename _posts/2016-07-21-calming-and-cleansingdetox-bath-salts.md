@@ -1,22 +1,23 @@
 ---
-datePublished: '2016-07-22T08:53:48.968Z'
+datePublished: '2016-07-22T09:36:56.511Z'
 sourcePath: _posts/2016-07-21-calming-and-cleansingdetox-bath-salts.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T08:29:36.580Z'
+dateModified: '2016-07-22T09:36:55.946Z'
 title: Calming & Cleansing...Detox Bath Salts
-publisher: {}
+publisher:
+  name: Amanda Clark
 description: >-
-  Here is an alternative to my Lavender Relaxing Bath Salts.... This one is
+  Here is an alternative to my Lavender Relaxing Bath Salts....This one is
   divine in smell... both Men and Women like this one - yes it is a little more
   flowery, but the benefits are one to be enjoyed by all.
-starred: false
+starred: true
 url: calming-and-cleansingdetox-bath-salts/index.html
 _type: MediaObject
 
 ---
-![Detox Bath Salts #clarksessentials](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/909240a4be4df1ff25b7c33329d58697/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F33f08664-9d16-4800-b592-d683fd02c90a.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed9c3dff-c365-40e2-ab26-f0034706e55a.jpg)
 
 # Calming & Cleansing...Detox Bath Salts
 
