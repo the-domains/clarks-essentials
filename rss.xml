@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></title>
+        <description><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jul 2016 08:53:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About me...]]></title>
+            <description><![CDATA[<article><h1>About me...</h1><p>Hi there, I am Amanda (also known as Mandy, Mands, Manda Panda, Mand, MandySue...hey you... and a few more) and am a legal alien now living in Munich, Germany; I love food, coffee, wine and Café Culture... wholefoods, health & wellness, natural stuff, essential oils, photography....so many things! </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f7d1a8-440c-44d1-96e1-beed0181d6af.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f7d1a8-440c-44d1-96e1-beed0181d6af.jpg</link>
+            <guid isPermaLink="false">89b8135c-cbd8-4213-afe7-ff46c09ff69c</guid>
+            <pubDate>Fri, 22 Jul 2016 08:53:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
