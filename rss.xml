@@ -4,7 +4,7 @@
         <description><![CDATA[Clark's Essentials]]></description>
         <link>https://thegrid.ai/clarksessentials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 15:29:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clarksessentials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/clarksessentials/fresh-flowers-make-you-smile/index.html</link>
             <guid isPermaLink="false">b09b2e11-7ca2-41c2-9a92-71a57d52004d</guid>
             <pubDate>Fri, 22 Jul 2016 09:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me...]]></title>
+            <description><![CDATA[<article><h1>About me...</h1><p>Hi there, I am Amanda (also known as Mandy, Mands, Manda Panda, Mand, MandySue...hey you... and a few more) and am a legal alien now living in Munich, Germany; I love food, coffee, wine and Café Culture... wholefoods, health & wellness, natural stuff, essential oils, photography....so many things!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f7d1a8-440c-44d1-96e1-beed0181d6af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/clarksessentials/about-me/index.html</link>
+            <guid isPermaLink="false">89b8135c-cbd8-4213-afe7-ff46c09ff69c</guid>
+            <pubDate>Fri, 22 Jul 2016 15:29:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chewy Sultana Cookies | Deliciously Ella]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/clarksessentials/delicious-and-healthy-stuffed-pita-bread/index.html</link>
             <guid isPermaLink="false">40ff83d3-26aa-4f2c-bda2-4967dddce3c8</guid>
             <pubDate>Fri, 22 Jul 2016 10:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Calming & Cleansing...Detox Bath Salts]]></title>
-            <description><![CDATA[<article><h1>Calming & Cleansing...Detox Bath Salts</h1><p>Here is an alternative to my Lavender Relaxing Bath Salts....This one is divine in smell... both Men and Women like this one - yes it is a little more flowery, but the benefits are one to be enjoyed by all.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f067c894d5873c72e965b7423121997f/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fed9c3dff-c365-40e2-ab26-f0034706e55a.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/clarksessentials/calming-and-cleansingdetox-bath-salts/index.html</link>
-            <guid isPermaLink="false">75c0f3d9-606c-4051-a141-47ff13310108</guid>
-            <pubDate>Fri, 22 Jul 2016 10:24:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
