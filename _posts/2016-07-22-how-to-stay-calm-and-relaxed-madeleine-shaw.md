@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-22T15:02:47.868Z'
+datePublished: '2016-07-22T15:17:30.863Z'
+sourcePath: _posts/2016-07-22-how-to-stay-calm-and-relaxed-madeleine-shaw.md
 isBasedOnUrl: 'http://madeleineshaw.com/how-to-stay-calm-and-relaxed-2/'
 keywords:
   - feel
@@ -14,14 +15,14 @@ keywords:
   - however
 related: []
 author:
-  - url: 'http://madeleineshaw.com/how-to-stay-calm-and-relaxed-2/'
-    name: Madeleine Shaw
+  - url: ''
+    name: ''
 via: {}
-dateModified: '2016-07-22T15:02:17.147Z'
+dateModified: '2016-07-22T15:17:30.192Z'
 title: How to stay calm and relaxed - Madeleine Shaw
 app_links: []
 publisher:
-  url: 'http://madeleineshaw.com'
+  url: 'http://madeleineshaw.com/how-to-stay-calm-and-relaxed-2/'
   name: Madeleine Shaw
   favicon: 'http://madeleineshaw.com/wp-content/themes/madeleine/assets/img/favicon.ico'
   domain: madeleineshaw.com
@@ -32,7 +33,6 @@ description: >-
   anyone to answer to but myself....
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-22-how-to-stay-calm-and-relaxed-madeleine-shaw.md
 inFeed: true
 hasPage: false
 inNav: false
