@@ -4,7 +4,7 @@
         <description><![CDATA[Clark's Essentials]]></description>
         <link>https://thegrid.ai/clarksessentials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 15:02:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clarksessentials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/clarksessentials/fresh-flowers-make-you-smile/index.html</link>
             <guid isPermaLink="false">b09b2e11-7ca2-41c2-9a92-71a57d52004d</guid>
             <pubDate>Fri, 22 Jul 2016 09:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to stay calm and relaxed - Madeleine Shaw]]></title>
-            <description><![CDATA[<article><h1>How to stay calm and relaxed - Madeleine Shaw</h1><p>If you know me, you know I'm quite a happy chappy. However, I can get myself in an inner panic. The truth is...I'm a workaholic. I work all the time, often 7 days a week. Now don't get me wrong, I love it! However, I don't really have anyone to answer to but myself....</p></article>]]></description>
-            <link>http://madeleineshaw.com/how-to-stay-calm-and-relaxed-2/</link>
-            <guid isPermaLink="false">f3b0878d-d22c-46e0-948f-5ff123729786</guid>
-            <pubDate>Fri, 22 Jul 2016 15:02:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guide: How to Eat the Rainbow]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/clarksessentials/homemade-lootits-all-good/index.html</link>
             <guid isPermaLink="false">654989c2-902d-4674-9ce9-cbe5876f6fce</guid>
             <pubDate>Fri, 22 Jul 2016 10:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me...]]></title>
+            <description><![CDATA[<article><h1>About me...</h1><p>Hi there, I am Amanda (also known as Mandy, Mands, Manda Panda, Mand, MandySue...hey you... and a few more) and am a legal alien now living in Munich, Germany; I love food, coffee, wine and Café Culture... wholefoods, health & wellness, natural stuff, essential oils, photography....so many things!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f7d1a8-440c-44d1-96e1-beed0181d6af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/clarksessentials/about-me/index.html</link>
+            <guid isPermaLink="false">89b8135c-cbd8-4213-afe7-ff46c09ff69c</guid>
+            <pubDate>Fri, 22 Jul 2016 10:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
