@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T09:55:02.942Z'
+datePublished: '2016-07-22T10:24:30.814Z'
 sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-07-22T09:55:02.396Z'
+dateModified: '2016-07-22T10:24:30.359Z'
 title: Homemade Loot...it’s all good!
 publisher: {}
 description: >-
@@ -18,7 +18,7 @@ description: >-
   chemicals found in many commercial store bought products.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: homemade-lootits-all-good/index.html
 _type: Article
 
