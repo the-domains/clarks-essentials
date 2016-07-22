@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T16:05:31.929Z'
-dateModified: '2016-07-22T16:05:16.675Z'
+datePublished: '2016-07-22T16:07:22.816Z'
+dateModified: '2016-07-22T16:05:36.759Z'
 sourcePath: >-
   _posts/2016-07-22-natural-delights-or-lovely-things-or-tasty-stuff-or-homemade.md
 author:
