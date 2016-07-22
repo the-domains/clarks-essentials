@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-22T15:02:44.897Z'
+datePublished: '2016-07-22T15:15:46.616Z'
+sourcePath: _posts/2016-07-22-guide-how-to-eat-the-rainbow.md
 isBasedOnUrl: 'http://ameliafreer.com/how-to-eat-the-rainbow'
 keywords:
   - colours
@@ -14,14 +15,14 @@ keywords:
   - yellow
 related: []
 author:
-  - url: 'http://ameliafreer.com/how-to-eat-the-rainbow'
-    name: Amelia Freer
+  - url: ''
+    name: ''
 via: {}
-dateModified: '2016-07-22T15:01:01.925Z'
+dateModified: '2016-07-22T15:15:43.740Z'
 title: 'Guide: How to Eat the Rainbow'
 app_links: []
 publisher:
-  url: 'http://ameliafreer.com'
+  url: 'http://ameliafreer.com/how-to-eat-the-rainbow'
   name: Amelia Freer
   favicon: 'http://ameliafreer.com/wp-content/uploads/2015/12/favicon.ico'
   domain: ameliafreer.com
@@ -33,7 +34,6 @@ description: >-
   or M&M's...
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-22-guide-how-to-eat-the-rainbow.md
 inFeed: true
 hasPage: false
 inNav: false
