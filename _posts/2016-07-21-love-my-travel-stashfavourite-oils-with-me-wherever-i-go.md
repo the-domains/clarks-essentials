@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T08:54:00.795Z'
+datePublished: '2016-07-22T09:14:22.066Z'
 sourcePath: _posts/2016-07-21-love-my-travel-stashfavourite-oils-with-me-wherever-i-go.md
 inFeed: true
 isBasedOnUrl: 'https://www.instagram.com/p/BE83esfzGAd/?taken-by=mandysue73'
@@ -12,7 +12,7 @@ author:
     url: 'https://www.instagram.com/mandysue73'
     avatar: {}
 via: {}
-dateModified: '2016-07-22T08:22:45.169Z'
+dateModified: '2016-07-22T09:14:20.597Z'
 title: "Love my travel stash...favourite oils with me wherever I go \uD83D\uDE0A #essentialoilsfortravel #clarksessentials"
 app_links:
   - url: 'instagram://media?id=1242111599167954973'
@@ -38,7 +38,7 @@ publisher:
 description: ''
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: Photograph
 
