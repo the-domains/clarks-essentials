@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T08:53:43.843Z'
+datePublished: '2016-07-22T10:25:33.806Z'
 sourcePath: _posts/2016-07-21-delicious-and-healthy-stuffed-pita-bread.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d78bc474-84c3-48fc-a899-7751b0fe16f8.jpg
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T08:33:32.210Z'
+dateModified: '2016-07-22T10:25:29.264Z'
 title: Delicious & healthy stuffed Pita Bread
 publisher: {}
 description: >-
@@ -13,10 +13,8 @@ description: >-
   opening just staring at the contents blindly thinking "I have nothing to
   eat!"....? Well that was me the other day, it was ridiculous...
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: delicious-and-healthy-stuffed-pita-bread/index.html
+_type: Article
 
 ---
 # Delicious & healthy stuffed Pita Bread
