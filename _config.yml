@@ -19,7 +19,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: >-
+  Clark's Essentials... natural delights | lovely things | tasty stuff |
+  homemade
 cta:
   domain: null
   bucket: null
