@@ -1,20 +1,20 @@
-typography_spectrum: 0.07592947711236775
+typography_spectrum: 0.3842382070142776
 color:
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.04272973979823291
-  lightness: 0.34559716493822634
-  saturation: 0.11328294849954545
-  rhythmicContrast: 0.556017407681793
+    - '#282142'
+    - '#dac7c1'
+    - '#983963'
+    - '#dc9698'
+    - '#996567'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.23870934708975255
+layout_spectrum: 0.40958797046914697
 analytics:
   google: null
   facebook: null
@@ -27,7 +27,11 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - id: fcbfdaeb-b918-4812-bebd-8e72f24fd7f1
+    url: 2016-07-21-relaxing-diy-bath-salts.html
+    name: Relaxing DIY Bath Salts
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 collections:
