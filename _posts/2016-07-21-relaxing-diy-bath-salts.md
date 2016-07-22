@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-07-22T09:55:50.993Z'
+datePublished: '2016-07-22T10:23:26.646Z'
 sourcePath: _posts/2016-07-21-relaxing-diy-bath-salts.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T09:55:50.448Z'
+dateModified: '2016-07-22T10:23:25.943Z'
 title: Relaxing DIY Bath Salts
 publisher: {}
 description: >-
   You too can make some fabulous & therapeutic bath salts...add your favourite
   essential oil(s), rest back and soak in the delights!
-starred: true
+starred: false
 url: relaxing-diy-bath-salts/index.html
 _type: MediaObject
 
