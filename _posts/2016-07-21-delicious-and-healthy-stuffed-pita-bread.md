@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-23T09:45:26.116Z'
+datePublished: '2016-07-23T20:19:28.975Z'
 sourcePath: _posts/2016-07-21-delicious-and-healthy-stuffed-pita-bread.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-23T09:45:20.517Z'
+dateModified: '2016-07-23T20:19:24.745Z'
 title: Delicious & healthy stuffed Pita Bread
 publisher:
   name: Amanda Clark
@@ -13,6 +13,7 @@ description: >-
   Ever gone to the kitchen, opened the fridge & just stood in front of the cold
   opening just staring at the contents blindly thinking "I have nothing to
   eat!"....? Well that was me the other day, it was ridiculous...
+inNav: true
 starred: false
 url: delicious-and-healthy-stuffed-pita-bread/index.html
 _type: Article
