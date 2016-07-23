@@ -4,7 +4,7 @@
         <description><![CDATA[Clark's Essentials]]></description>
         <link>https://thegrid.ai/clarksessentials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 21:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 21:51:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clarksessentials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/clarksessentials/1cd7b3e9-4fc5-4b91-be0f-2fa2bcadf54f/index.html</link>
             <guid isPermaLink="false">1cd7b3e9-4fc5-4b91-be0f-2fa2bcadf54f</guid>
             <pubDate>Sat, 23 Jul 2016 21:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About me...]]></title>
+            <description><![CDATA[<article><h1>About me...</h1><p>Hi there, I am Amanda (also known as Mandy, Mands, Manda Panda, Mand, MandySue...hey you... and a few more) and am a legal alien now living in Munich, Germany; I love food, coffee, wine and Café Culture... wholefoods, health & wellness, natural stuff, essential oils, photography....so many things!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68f7d1a8-440c-44d1-96e1-beed0181d6af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/clarksessentials/about-me/index.html</link>
+            <guid isPermaLink="false">89b8135c-cbd8-4213-afe7-ff46c09ff69c</guid>
+            <pubDate>Sat, 23 Jul 2016 21:50:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gardener's Hand Soap | doTERRA Essential Oils]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/clarksessentials/best-ever-diy-deodorant/index.html</link>
             <guid isPermaLink="false">a06ceea9-db28-406b-a1f8-c9affe8a257c</guid>
             <pubDate>Sat, 23 Jul 2016 20:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relaxing DIY Bath Salts]]></title>
-            <description><![CDATA[<article><h1>Relaxing DIY Bath Salts</h1><p>You too can make some fabulous & therapeutic bath salts...add your favourite essential oil(s), rest back and soak in the delights!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/267a733b-3539-4441-93ef-0f16f5bebdd4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/clarksessentials/relaxing-diy-bath-salts/index.html</link>
-            <guid isPermaLink="false">fcbfdaeb-b918-4812-bebd-8e72f24fd7f1</guid>
-            <pubDate>Sat, 23 Jul 2016 20:16:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
