@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T09:26:35.186Z'
+datePublished: '2016-07-23T09:48:25.337Z'
 sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 inFeed: true
 authors: []
@@ -8,9 +8,10 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-07-23T09:26:34.709Z'
+dateModified: '2016-07-23T09:48:21.237Z'
 title: Homemade Loot...it’s all good!
-publisher: {}
+publisher:
+  name: Amanda Clark
 description: >-
   There is some amount of great satisfaction in knowing that you made something;
   that what you have made is from natural organic and easily sourced materials
