@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T09:35:46.268Z'
+datePublished: '2016-07-23T20:17:35.078Z'
 sourcePath: _posts/2016-07-21-best-ever-diy-deodorant.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-23T09:35:39.869Z'
+dateModified: '2016-07-23T20:17:31.045Z'
 title: Best Ever DIY Deodorant
 publisher:
   name: Amanda Clark
@@ -17,7 +17,7 @@ description: >-
   you what, I am totally converted & will not be returning to that shop bought
   stuff again...
 inLanguage: null
-inNav: false
+inNav: true
 starred: false
 url: best-ever-diy-deodorant/index.html
 _type: Article
