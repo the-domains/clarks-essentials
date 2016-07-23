@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T08:53:41.703Z'
+datePublished: '2016-07-23T09:35:46.268Z'
 sourcePath: _posts/2016-07-21-best-ever-diy-deodorant.md
 inFeed: true
 authors: []
@@ -7,9 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-22T08:35:20.633Z'
+dateModified: '2016-07-23T09:35:39.869Z'
 title: Best Ever DIY Deodorant
-publisher: {}
+publisher:
+  name: Amanda Clark
 description: >-
   Ooh, I am excited to share with you...the best homemade do-it-yourself (DIY)
   deodorant ever!!! I am actually surprised that I make & use it...but I tell
