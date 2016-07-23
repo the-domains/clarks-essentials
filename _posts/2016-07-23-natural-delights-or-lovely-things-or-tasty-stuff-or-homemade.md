@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-23T19:58:57.992Z'
+datePublished: '2016-07-23T20:09:11.489Z'
 sourcePath: >-
   _posts/2016-07-23-natural-delights-or-lovely-things-or-tasty-stuff-or-homemade.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-23T19:58:54.072Z'
+dateModified: '2016-07-23T20:09:10.906Z'
 title: natural delights | lovely things | tasty stuff | homemade
 publisher: {}
 description: >-
