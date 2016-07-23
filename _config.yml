@@ -1,46 +1,46 @@
-name: Clark's Essentials
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
-layout_spectrum: 0.50201
-typography_spectrum: 0.62183
-author:
-  name: Amanda Clark
-  email: mands007@mac.com
-navigation: []
+title: Clark's Essentials
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Clark's Essentials
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.75
   brandColors:
     - '#ebd0b3'
     - '#77abd0'
     - '#c58953'
     - '#2c587f'
     - '#ee2396'
-  brandStrength: 0.5
   lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation: []
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
+author:
+  name: Amanda Clark
+  email: mands007@mac.com
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+name: Clark's Essentials
+typography_spectrum: 0.62183
+layout_spectrum: 0.6433692
