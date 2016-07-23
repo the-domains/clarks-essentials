@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-23T08:30:30.420Z'
+datePublished: '2016-07-23T09:40:11.780Z'
 author: []
 via: {}
-dateModified: '2016-07-23T08:28:41.463Z'
+dateModified: '2016-07-23T09:40:11.361Z'
 title: Fresh Flowers make you smile
 publisher: {}
 description: >-
@@ -10,7 +10,7 @@ description: >-
   they have the ability to pick you up, transport you, chill you out, smile,
   remember...
 sourcePath: _posts/2016-07-22-fresh-flowers-make-you-smile.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
