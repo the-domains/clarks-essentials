@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-23T20:14:40.812Z'
+datePublished: '2016-07-23T20:15:33.190Z'
 sourcePath: _posts/2016-07-21-calming-and-cleansingdetox-bath-salts.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-23T20:14:26.809Z'
+dateModified: '2016-07-23T20:15:30.216Z'
 title: Calming & Cleansing...Detox Bath Salts
 publisher:
   name: Amanda Clark
@@ -18,9 +18,8 @@ url: calming-and-cleansingdetox-bath-salts/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f067c894d5873c72e965b7423121997f/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fed9c3dff-c365-40e2-ab26-f0034706e55a.jpg&x=0&y=0)
-
 # Calming & Cleansing...Detox Bath Salts
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f067c894d5873c72e965b7423121997f/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fed9c3dff-c365-40e2-ab26-f0034706e55a.jpg&x=0&y=0)
 
 Here is an alternative to my Lavender Relaxing Bath Salts....  
 This one is divine in smell... both Men and Women like this one - yes, it is a little more flowery but the delightful benefits are one to be enjoyed by all.
@@ -53,4 +52,4 @@ Epsom salt baths are known to relieve stress and pain, help muscles and nerves t
 
 > All I can say is the combination of these oils is SOOOOO GOOD!!! Makes me feel relaxed, calm, chilled and happy, with the added bonus of less muscle aches & pains.
 
-Seriously, give this a go...make some...you know you want to and let me know what you think!
+Seriously, give this a go...make some...you know you want to; let me know what you think!
