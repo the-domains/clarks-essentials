@@ -27,12 +27,7 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - id: b999fc9d-bea3-4b16-9714-ed3311f9bc95
-    url: >-
-      2016-07-23-natural-delights-or-lovely-things-or-tasty-stuff-or-homemade.html
-    name: About
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 collections:
