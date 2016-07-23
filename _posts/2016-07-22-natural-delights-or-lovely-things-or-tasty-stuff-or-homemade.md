@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T09:51:53.522Z'
+datePublished: '2016-07-23T09:51:56.819Z'
 sourcePath: >-
   _posts/2016-07-22-natural-delights-or-lovely-things-or-tasty-stuff-or-homemade.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-07-23T09:51:52.719Z'
+dateModified: '2016-07-23T09:51:56.553Z'
 title: natural delights | lovely things | tasty stuff | homemade
 publisher: {}
 description: A random collection...for a more holistic approach to life
