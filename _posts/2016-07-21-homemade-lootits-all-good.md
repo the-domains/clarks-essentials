@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T10:24:30.814Z'
+datePublished: '2016-07-23T09:26:35.186Z'
 sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-07-22T10:24:30.359Z'
+dateModified: '2016-07-23T09:26:34.709Z'
 title: Homemade Loot...it’s all good!
 publisher: {}
 description: >-
