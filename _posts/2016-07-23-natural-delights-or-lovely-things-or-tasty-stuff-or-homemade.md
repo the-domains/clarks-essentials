@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-23T19:55:42.946Z'
+datePublished: '2016-07-23T19:58:57.992Z'
 sourcePath: >-
   _posts/2016-07-23-natural-delights-or-lovely-things-or-tasty-stuff-or-homemade.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-23T19:55:19.578Z'
+dateModified: '2016-07-23T19:58:54.072Z'
 title: natural delights | lovely things | tasty stuff | homemade
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   musing's & ideas for a more natural, holistic, healthy & enjoyable way of
   life........full of natural delights, lovely things, tasty stuff & things you
   can make at home...Click to find out a little more about me. 
-inNav: true
+inNav: false
 starred: true
 url: natural-delights-or-lovely-things-or-tasty-stuff-or-homemade/index.html
 _type: Article
