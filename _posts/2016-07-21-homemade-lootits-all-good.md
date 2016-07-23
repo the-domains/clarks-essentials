@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-23T09:48:25.337Z'
+datePublished: '2016-07-23T20:20:07.978Z'
 sourcePath: _posts/2016-07-21-homemade-lootits-all-good.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-07-23T09:48:21.237Z'
+dateModified: '2016-07-23T20:20:02.559Z'
 title: Homemade Loot...it’s all good!
 publisher:
   name: Amanda Clark
@@ -18,7 +18,7 @@ description: >-
   and most importantly it is free from many of those unpleasant toxins and
   chemicals found in many commercial store bought products.
 inLanguage: null
-inNav: false
+inNav: true
 starred: false
 url: homemade-lootits-all-good/index.html
 _type: Article
