@@ -10,11 +10,12 @@ description: >-
   dirt-stained hands you get from gardening are far from ideal. This
   easy-to-make Gardener's Hand Soap exfoliates, cleanses, and moisturizes all in
   one use!
-datePublished: '2016-07-23T20:56:00.874Z'
-dateModified: '2016-07-23T20:55:42.340Z'
+datePublished: '2016-07-23T21:19:55.609Z'
+dateModified: '2016-07-23T21:18:18.019Z'
 title: Gardener's Hand Soap | doTERRA Essential Oils
 author: []
 via: {}
+sourcePath: _posts/2016-07-23-gardeners-hand-soap-or-doterra-essential-oils.md
 authors: []
 publisher:
   name: null
@@ -22,7 +23,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-07-23-gardeners-hand-soap-or-doterra-essential-oils.md
 _type: MediaObject
 
 ---
