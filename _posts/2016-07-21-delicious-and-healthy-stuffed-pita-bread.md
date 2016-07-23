@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T15:30:52.626Z'
+datePublished: '2016-07-23T09:37:19.029Z'
 sourcePath: _posts/2016-07-21-delicious-and-healthy-stuffed-pita-bread.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T15:30:30.579Z'
+dateModified: '2016-07-23T09:37:18.527Z'
 title: Delicious & healthy stuffed Pita Bread
 publisher: {}
 description: >-
