@@ -1,4 +1,4 @@
-typography_spectrum: 0.5151168752927333
+typography_spectrum: 0.5160202
 color:
   saturation: 0.5
   brandStrength: 0.5
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.1094619499053806
+layout_spectrum: 0.9392917
 analytics:
   twitter: null
   google: null
@@ -27,7 +27,11 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation: []
+navigation:
+  - id: 654989c2-902d-4674-9ce9-cbe5876f6fce
+    url: 2016-07-21-homemade-lootits-all-good.html
+    name: Homemade
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 collections:
