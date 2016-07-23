@@ -1,4 +1,4 @@
-typography_spectrum: 0.7756473391782492
+typography_spectrum: 0.42579508759081364
 color:
   saturation: 0.5
   brandStrength: 0.5
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.255125435302034
+layout_spectrum: 0.6263238859828562
 analytics:
   twitter: null
   google: null
@@ -27,7 +27,12 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation: []
+navigation:
+  - id: b999fc9d-bea3-4b16-9714-ed3311f9bc95
+    url: >-
+      2016-07-23-natural-delights-or-lovely-things-or-tasty-stuff-or-homemade.html
+    name: About
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 collections:
