@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5
   brandStrength: 0.5
@@ -23,24 +23,24 @@ color:
     - '#2c587f'
     - '#ee2396'
   lightness: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
+navigation: []
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
+cta:
+  bucket: null
+  version: null
+  domain: null
 author:
   name: Amanda Clark
   email: mands007@mac.com
-name: Clark's Essentials
 opengraph:
   image: null
   type: null
   appId: null
-navigation: []
+name: Clark's Essentials
 typography_spectrum: 0.07166947
-layout_spectrum: 0.851602
+layout_spectrum: 0.6745362
