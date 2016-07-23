@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T15:50:14.433Z'
+datePublished: '2016-07-23T20:16:20.375Z'
 sourcePath: _posts/2016-07-21-relaxing-diy-bath-salts.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T15:50:14.015Z'
+dateModified: '2016-07-23T20:16:07.833Z'
 title: Relaxing DIY Bath Salts
 publisher:
   name: Amanda Clark
