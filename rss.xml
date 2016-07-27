@@ -4,7 +4,7 @@
         <description><![CDATA[Clark's Essentials]]></description>
         <link>https://thegrid.ai/clarksessentials/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 07:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 08:59:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clarksessentials/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[natural delights | lovely things | tasty stuff | homemade]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/clarksessentials/about-me/index.html</link>
             <guid isPermaLink="false">89b8135c-cbd8-4213-afe7-ff46c09ff69c</guid>
             <pubDate>Wed, 27 Jul 2016 07:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Make Kombucha Tea at Home - Cooking Lessons from The Kitchn]]></title>
+            <description><![CDATA[<article><h1>How To Make Kombucha Tea at Home - Cooking Lessons from The Kitchn</h1><p>I've been addicted to kombucha from first sip. It wasn't really the probiotics or other health promises that did it for me - although I'll take those, too! It was the way it tasted: like tart green apple mixed with sour stone fruits, but with an underlying sweetness that keeps it all together.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/46ba96ae4367eda0c11fadafef319546/croprotate?cropheight=1994&cropwidth=1423&degrees=0&input=http%3A%2F%2Fatmedia.imgix.net%2F62ac57eec4f2c36ef45715802e029c971bf51357%3Fw%3D1500%26fit%3Dmax&x=0&y=0"></article>]]></description>
+            <link>http://www.thekitchn.com/how-to-make-kombucha-tea-at-home-cooking-lessons-from-the-kitchn-173858</link>
+            <guid isPermaLink="false">2a4efa90-9a7d-4da3-a7ed-2519bf8972bd</guid>
+            <pubDate>Wed, 27 Jul 2016 08:59:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gardener's Hand Soap | doTERRA Essential Oils]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/clarksessentials/delicious-and-healthy-stuffed-pita-bread/index.html</link>
             <guid isPermaLink="false">40ff83d3-26aa-4f2c-bda2-4967dddce3c8</guid>
             <pubDate>Sat, 23 Jul 2016 20:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Ever DIY Deodorant]]></title>
-            <description><![CDATA[<article><h1>Best Ever DIY Deodorant</h1><p>Ooh, I am excited to share with you...the best homemade do-it-yourself (DIY) deodorant ever!!! I am actually surprised that I make & use it...but I tell you what, I am totally converted & will not be returning to that shop bought stuff again...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2234499a1fdccf9fb3623296f51ac1648bb589ab.jpg"></article>]]></description>
-            <link>https://thegrid.ai/clarksessentials/best-ever-diy-deodorant/index.html</link>
-            <guid isPermaLink="false">a06ceea9-db28-406b-a1f8-c9affe8a257c</guid>
-            <pubDate>Sat, 23 Jul 2016 20:17:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
