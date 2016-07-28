@@ -5,15 +5,15 @@ description: >-
   Try this nutritious and yummy Peppermint essential oil and Black Bean Brownie
   recipe, and turn that traditional chocolate brownie into a healthy crowd
   pleaser.
-dateModified: '2016-07-27T09:00:35.788Z'
+dateModified: '2016-07-28T06:42:33.910Z'
 via: {}
 isBasedOnUrl: 'http://doterra.com/US/en/blog/recipe-black-bean-brownies'
 publisher:
   name: doTERRA
-datePublished: '2016-07-27T09:00:49.717Z'
-starred: true
+datePublished: '2016-07-28T06:42:34.375Z'
 sourcePath: >-
   _posts/2016-07-27-black-bean-brownies-with-peppermint-oil-or-doterra-essential.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
