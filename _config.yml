@@ -14,16 +14,16 @@ collections:
       number: 10
 description: natural delights | lovely things | tasty stuff | homemade
 color:
-  saturation: 0.5
+  saturation: 0.7529511
   brandStrength: 0.5
-  rhythmicContrast: 0.75
+  lightness: 0.5851602
   brandColors:
     - '#ebd0b3'
     - '#77abd0'
     - '#c58953'
     - '#2c587f'
     - '#ee2396'
-  lightness: 0.75
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
@@ -31,10 +31,10 @@ cta:
 navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
-name: Clark's Essentials
 author:
   name: Amanda Clark
   email: mands007@mac.com
+name: Clark's Essentials
 opengraph:
   image: null
   type: null
