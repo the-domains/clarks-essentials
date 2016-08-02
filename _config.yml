@@ -29,12 +29,12 @@ cta:
   version: null
   domain: null
 navigation: []
-name: Clark's Essentials
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 author:
   name: Amanda Clark
   email: mands007@mac.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
+name: Clark's Essentials
 opengraph:
   image: null
   type: null
@@ -44,4 +44,4 @@ analytics:
   google: null
   facebook: null
 typography_spectrum: 0.9527825
-layout_spectrum: 0.876054
+layout_spectrum: 0.1146712
