@@ -28,7 +28,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
 name: Clark's Essentials
@@ -43,5 +42,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
-typography_spectrum: 0.9527825
-layout_spectrum: 0.6197302
+typography_spectrum: 0.9752108461689204
+layout_spectrum: 0.8029920833650976
