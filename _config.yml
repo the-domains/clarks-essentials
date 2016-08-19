@@ -6,34 +6,34 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: natural delights | lovely things | tasty stuff | homemade
 color:
   saturation: 0.7529511
   brandStrength: 0.5
-  lightness: 0.5851602
+  rhythmicContrast: 0.75
   brandColors:
     - '#ebd0b3'
     - '#77abd0'
     - '#c58953'
     - '#2c587f'
     - '#ee2396'
-  rhythmicContrast: 0.75
+  lightness: 0.5851602
 cta:
   bucket: null
   version: null
   domain: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a85a4396-058a-4563-9251-ddfc538024ad.jpg
-name: Clark's Essentials
 author:
   name: Amanda Clark
   email: mands007@mac.com
+name: Clark's Essentials
 opengraph:
   image: null
   type: null
@@ -43,4 +43,4 @@ analytics:
   google: null
   facebook: null
 typography_spectrum: 0.9752108461689204
-layout_spectrum: 0.8029920833650976
+layout_spectrum: 0.9032258
