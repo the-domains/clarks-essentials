@@ -1,3 +1,16 @@
+layout_spectrum: 0.813455379800871
+typography_spectrum: 0.48785116081126034
+color:
+  saturation: 0.47583869425579906
+  brandStrength: 0.8060220377519727
+  rhythmicContrast: 0.40831335028633475
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  lightness: 0.697908082511276
 title: Clark's Essentials
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: natural delights | lovely things | tasty stuff | homemade
-color:
-  saturation: 0.7529511
-  brandStrength: 0.5
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#ebd0b3'
-    - '#77abd0'
-    - '#c58953'
-    - '#2c587f'
-    - '#ee2396'
-  lightness: 0.5851602
 cta:
   bucket: null
   version: null
@@ -42,5 +44,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-typography_spectrum: 0.9752108461689204
-layout_spectrum: 0.7849463
